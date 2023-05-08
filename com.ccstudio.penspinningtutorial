@@ -20,9 +20,9 @@
 //* 2 = StartApp
 //* 3 = Applovin
 //* 4 = unity
-"bannerType": 4,
-"intersType": 1,
-"rewardType": 3,
+"bannerType": 3,
+"intersType": 4,
+"rewardType": 4,
 "nativeType": 2,
 //* Lock content type
 //*------------------
