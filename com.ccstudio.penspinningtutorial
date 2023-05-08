@@ -20,7 +20,7 @@
 //* 2 = StartApp
 //* 3 = Applovin
 //* 4 = unity
-"bannerType": 3,
+"bannerType": 4,
 "intersType": 4,
 "rewardType": 4,
 "nativeType": 2,
